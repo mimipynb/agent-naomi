@@ -1,0 +1,37 @@
+AgentNaomi TODO LIST
+
+## Utils 
+[x] Agent Prompts 
+[x] Assign Database Creations and Paths 
+[x] Ollama and Dockers containers / Lightning AI
+    [x] = Human Data Handlers
+    [ ] = SETUP another dataset backup - preferrably Hugging Face space
+[x] Creation / Initial Starting:
+    [x] = Question Answers
+[ ] Connection between Lightning Studio via lightning library 
+    [ ] script for handling lifecycle of creation / pruning dataset
+[ ] CLI / Argparse defining the available options for the candidate to pick from:
+    [ ] = Starting Session  
+        [x] = Full dataset ready vs [OPTIONAL] help me build one 
+
+## Data Preprocessing Toolkit
+[ ] Data Preprocessing tools
+    [ ] = Here -> Agent e.g. Question Markdown Conversion 
+    [ ] = Here -> Dataset 
+    [x] = Current -> Next Session 
+[ ] Database Storage in Lightning 
+    [ ] = Cache Data with joblib (Agent)
+    [ ] = Light Weight Model in this pack (Agent -> Here)
+    [x] = Agent Family Wall as library
+
+## Fun part
+[ ] Model Setup 
+    [ ] = SETUP joblib 
+    [ ] = Lifecycle Handlers for the Users Tree
+[ ] For the love of God, add loggings 
+
+## LEAST PRIORITY
+[ ] Rich CLI to initiating session / usage:
+    [ ] = TOdo APPENDS dataset 
+    [ ] = Logging 
+    [ ] = Lightning Logins

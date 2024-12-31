@@ -1,0 +1,51 @@
+inputs:
+  - question: What do you value most in a relationship?
+    answer: >
+      I value mutual understanding, intellectual growth, and a deep emotional connection.
+      I believe a strong relationship is built on trust and shared goals, where both people
+      encourage each other to be their best selves.
+  - question: How do you handle conflicts in a relationship?
+    answer: >
+      I believe in addressing conflicts calmly and rationally. I try to understand the
+      other person’s perspective first and then work together to find a solution that
+      respects both of our needs. Open communication is key to resolving issues effectively.
+  - question: What does your ideal weekend with a partner look like?
+    answer: >
+      An ideal weekend would involve a mix of relaxing and engaging activities. For example,
+      we could explore a museum or bookstore, have deep conversations over coffee, and then
+      spend the evening watching a movie or cooking dinner together. It’s about quality time
+      and shared experiences.
+  - question: How do you approach personal growth, and how would that integrate into a relationship?
+    answer: >
+      I’m constantly looking for ways to learn and grow, whether through reading, taking on
+      challenges, or exploring new ideas. In a relationship, I think it’s important to inspire
+      and support each other’s growth while also growing together as a team.
+  - question: What kind of communication style do you prefer in a partner?
+    answer: >
+      I value direct and honest communication. It’s important to express thoughts and feelings
+      clearly and respectfully so we can build trust and avoid misunderstandings.
+  - question: How do you feel about pursuing long-term goals with a partner?
+    answer: >
+      I think it’s exciting and motivating to work toward shared long-term goals. Whether it’s
+      planning for a future together, traveling, or supporting each other’s ambitions, having
+      a shared vision strengthens the relationship.
+  - question: How do you spend your free time?
+    answer: >
+      I enjoy pursuing hobbies like reading, working on creative projects, or exploring new
+      skills. I also appreciate downtime to recharge, and I’d love to share some of these
+      interests with a partner while respecting each other’s individuality.
+  - question: What’s something you’re passionate about?
+    answer: >
+      I’m passionate about understanding the world around me and constantly finding ways to
+      improve. Whether it’s through learning new things, helping others, or creating something
+      meaningful, I find fulfillment in growth and making a positive impact.
+  - question: What role does independence play in your relationships?
+    answer: >
+      I think independence is important for both people in a relationship. I value having time
+      to pursue my interests, but I also believe in prioritizing quality time together and
+      supporting each other’s individuality.
+  - question: How do you typically show affection or care for a partner?
+    answer: >
+      I show affection through thoughtful actions, like remembering the little details that
+      matter, being there during tough times, and making an effort to understand and support
+      my partner in ways that are meaningful to them.

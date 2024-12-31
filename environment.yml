@@ -1,0 +1,21 @@
+name: agentNaomi
+channels:
+  - defaults
+  - pytorch
+  - conda-forge
+dependencies:
+  - python>=3.8.12
+  # - torch=2.0.0
+  # - torchvision=0.15.0
+  # - torchaudio=2.0.0
+  - pip:
+    - poetry # Optional: for managing dependencies
+    - pandas 
+    - numpy
+    - langchain-ollama
+    - lightning_sdk 
+    - transformers 
+    - sentence-transformers
+    - matplotlib
+    - lightning
+    - joblib
