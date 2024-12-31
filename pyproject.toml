@@ -40,7 +40,7 @@ joblib = "^1.4.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.2.4"
-coverage = {extras = ["toml"], version = "^5.4"}
+coverage = {extras = ["toml"], version = "^7.6"}
 safety = "^1.10.3"
 typeguard = "^2.12.1"
 xdoctest = {extras = ["colors"], version = "^0.15.5"}
